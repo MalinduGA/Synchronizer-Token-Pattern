@@ -1,5 +1,5 @@
 # Synchronizer-Token-Pattern
-SSS Assignment 2019.
+
 #Malindu Attygala
 #IT17174404
 This project demonstrates how to use CSRF Tokens and Session IDs to validate sessions and users using PHP.
